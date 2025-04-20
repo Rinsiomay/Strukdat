@@ -1,6 +1,5 @@
-# Strukdat
 # Struktur-Data
-Tempat menampung tugas Struktur Data milik Ananta Galih Mahardika dengan NIM 3337240055
+Tempat menampung tugas Struktur Data milik Rindra Satriatama Putra dengan NIM 3337240032
 
 # DOKUMENTASI PROGRAM PENCARIAN MENGGUNAKAN ALGORITMA LINEAR DAN BINER PADA DATASET SPREADSHEET
 
@@ -33,12 +32,12 @@ https://docs.google.com/spreadsheets/d/17ru4XAU2NloE9Dfxr2PC1BVcsYkLLT5r7nPSsiOF
 #### Persiapan:
 1. Pastikan Python dan library pandas sudah terinstal
 2. Pastikan koneksi internet tersedia
-3. Simpan kode sumber ke file bernama tempCodeRunnerFile.py
+3. Simpan kode sumber ke file bernama search.py
 
 #### Menjalankan Program
 4. Buka Terminal atau Command Prompt
 5. Navigasi ke direktori tempat file tempCodeRunnerFile.py disimpan
-6. Jalankan program dengan perintah: `python tempCodeRunnerFile.py`
+6. Jalankan program dengan perintah: `search.py`
 
 #### Menggunakan Program
 7. Program akan memuat data dari Google Sheets yang telah dikonfigurasi
@@ -291,20 +290,9 @@ if __name__ == "__main__":
     clear_screen()
     print("👋 Terima kasih! Sampai jumpa lagi 🙏")
 ```
-Penjelasan:
-- Entry point utama program dengan antarmuka berbasis menu
-- Mengambil data dari Google Sheets di awal program
-- Menampilkan menu interaktif dengan emoji untuk memilih kolom pencarian
-- Memproses pilihan pengguna untuk kolom dan metode pencarian
-- Melakukan pengurutan data sesuai kebutuhan sebelum pencarian biner
-- Menampilkan hasil pencarian dengan format yang jelas
-- Mengulang proses pencarian hingga pengguna memilih keluar
-- Menggunakan emoji dan format yang jelas untuk antarmuka pengguna yang lebih menarik
----
-
 ## Tentang Projek Ini:
 
 Projek UTS Struktur Data  
 Universitas Sultan Ageng Tirtayasa  
-Oleh: Ananta Galih Mahardika [3337240055]  
+Oleh: Rindra Satriatama Putra [3337240032]  
 Dosen: Cakra Adipura Wicaksana, S.T., M.T
