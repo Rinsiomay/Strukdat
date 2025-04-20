@@ -11,7 +11,7 @@ Tempat menampung tugas Struktur Data milik Rindra Satriatama Putra dengan NIM 33
 
 ## Daftar File
 
-- `tempCodeRunnerFile.py`  
+- `search.py`  
   Program utama untuk pencarian data paper menggunakan Linear Search dan Binary Search.
 ---
 
@@ -36,7 +36,7 @@ https://docs.google.com/spreadsheets/d/17ru4XAU2NloE9Dfxr2PC1BVcsYkLLT5r7nPSsiOF
 
 #### Menjalankan Program
 4. Buka Terminal atau Command Prompt
-5. Navigasi ke direktori tempat file tempCodeRunnerFile.py disimpan
+5. Navigasi ke direktori tempat file search.py disimpan
 6. Jalankan program dengan perintah: `search.py`
 
 #### Menggunakan Program
